@@ -1,7 +1,7 @@
  /**
  * Austin Riddle
  * CMPS 4883
- * 9/2/2021
+ * 9/7/2021
  */
 
 #include <iostream>
@@ -26,7 +26,7 @@ struct light{
 	// If our current position in the cycle is within the time spent
 	// being green, we return true. Otherwise, return false.
 	bool isGreen(){
-		return curTime <= greenTime;
+		return curTime < greenTime;
 	}
 	
 	// Increment our position in the cycle. If we go over the cycle time,
@@ -53,7 +53,7 @@ bool getScenario(vector<light*>& lights){
 }
 
 // Fast forward our scenario until the first light(s) become yellow
-// At this instant, it's no longer true that all lights are green
+// After calling this function, it is no longer true that all lights are green.
 int initScenario(vector<light*>& lights){
 	int timer = 0;
 	bool go = true;
@@ -70,8 +70,7 @@ int initScenario(vector<light*>& lights){
 	return timer;
 }
 
-// Now that not all lights are green, the timer can begin until we
-// encounter a state where all lights are green simultaniously again
+// Now that not all lights are green, we increment until all lights are green again.
 int simScenario(vector<light*>& lights){
 	int timer = 0;
 	bool go = true;
