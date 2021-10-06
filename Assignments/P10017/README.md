@@ -35,6 +35,9 @@ the puzzle with n disks is 2n − 1.
 
 ### Sources
 
+- 3Blue1Brown (Youtube)
+    - https://youtu.be/2SUvWfNJSsM
+
 - Wikipedia
     - https://en.wikipedia.org/wiki/Towers_of_hanoi
 
@@ -44,6 +47,4 @@ the puzzle with n disks is 2n − 1.
 - Book
     - Competitive Programming Three page 390
 
-
-
-
+I used these sources to help me understand the Towers of Hanoi so that I could solve the problem.
