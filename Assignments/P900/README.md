@@ -15,7 +15,7 @@ long-ways up put next to each other.
 - There are three patterns for walls of length 3.
 How many patterns can you find for a wall of length 4? And, for a wall of length 5?
 
-It turns out that the number of unique brick patterns corresponds to the Fibonacci sequence. Thus, the solution for n bricks is the simply the nth fibonacci number.
+It turns out that the number of unique brick patterns corresponds to the Fibonacci sequence. The brick wall solutions start at the third number in the Fibonacci Sequence, which is a 1.  Thus, the solution can be determined by simply continuing this sequence for each number of bricks.
 
 ### Files
 
