@@ -1,23 +1,28 @@
-# Assignment 4
-
+## 10055 - Hashmat the Brave Warrior
 ### Austin Riddle
+### Description:
 
-#### For CMPS 4883 Programming Techniques.
+Hashmat is a brave warrior who with his group of young soldiers moves from one place to another to
+fight against his opponents. Before Fighting he just calculates one thing, the difference between his
+soldier number and the opponent’s soldier number. From this difference he decides whether to fight or
+not. Hashmat’s soldier number is never greater than his opponent.
 
-#### 08/31/2021
+### Files
 
-This is a simple problem from https://onlinejudge.org/
 
-Specifically, it is problem number __10055__ called __Hashmat the brave warrior__
+|   #   | File                       | Description                                                |
+| :---: | -------------------------- | ---------------------------------------------------------- |
+|   1   |[warrior.cpp](./warrior.cpp)| Solution Source Code.                                      |
+|   2   | [input.dat](./input.dat)   | Test input file from uDebug.                               |
+|   3   | [10055.pdf](./10017.pdf)   | Original problem description document.                     |
 
-My code for this is similar to the starter code provided, however I used `long int` for my variables instead of regular `int`.  This made the difference between passing and failing on Online Judge.
+### Instructions
 
-Additionally, my loop contained a simple if/else statement to make sure that the smaller number is always subtracted from the larger number.
-```cpp
-if(a > b)
-	cout << a - b << '\n';
-else
-	cout << b - a << '\n';
-```
+- This project was compiled with GNU GCC 11.1.0.  It should work with any C++11 or newer compiler.
+- Simply compile warrior.cpp and run the executable. ```g++ warrior.cpp -o warrior```
+- To supply the input and output to a file, run it like this: ```./warrior < input.dat > out.txt```
 
-For testing, I used the contents of `input.dat` to make sure the program worked.  This contains input data from the Online Judge debugging website so that I could make sure I got the correct output.
+### Sources
+
+- Starter code from rugbyprof (github)
+    - https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04
