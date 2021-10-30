@@ -9,4 +9,5 @@
 |   5   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P10226-P10194">P10226-P10194</a>** | Hardwood Species & Football |
 |   6   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P10017">P10017</a>** | Towers of Hanoi |
 |   7   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P900">P900</a>** | Brick Wall Patterns |
-|   10   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P1112">P1112</a>** | Mice and Maze |
+|   8   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P1112">P1112</a>** | Mice and Maze |
+|   9   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P11875">P11875</a>** | Brick Game |
