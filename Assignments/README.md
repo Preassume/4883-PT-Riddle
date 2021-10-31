@@ -11,3 +11,4 @@
 |   7   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P900">P900</a>** | Brick Wall Patterns |
 |   8   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P1112">P1112</a>** | Mice and Maze |
 |   9   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P11875">P11875</a>** | Brick Game |
+|   10   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P11727">P11727</a>** | Cost Cutting |
