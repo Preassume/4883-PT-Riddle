@@ -1,3 +1,4 @@
+// Austin Riddle
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -5,13 +6,6 @@
 using namespace std;
 
 vector<int> primes;
-
-/*
- * write a binary tree for every input number. it will have prime
- * numbers that can compose it in every possible combination
- * branching down. the depth of the end node with least depth is the
- * answer
-*/
 
 struct thing{
 	thing* head;
@@ -157,17 +151,4 @@ int main(){
 		cout << shortestDepth << '\n';
 		delete head;
 	}
-	
-	/*
-	cin >> n >> q;
-	getPrimesN(n);
-	for(auto x : primes) cout << x << '\n';
-	cout << "\n\n";
-	thing* head = new thing(q);
-	printThing(head);
-	cout << '\n';
-	printThingDepth(head);
-	shortestDepth = INT_MAX;
-	findAnswer(head);
-	cout << '\n' << shortestDepth << '\n';*/
 }

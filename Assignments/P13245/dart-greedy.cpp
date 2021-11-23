@@ -1,3 +1,4 @@
+// Austin Riddle
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -11,22 +12,6 @@ void getPrimes(){
 	primes.push_back(1); // We also need a 1, so we add it even though it's not prime
 	
 	for(int i = 2; i <= 541; i++){ // 541 is the 100th prime
-		bool isPrime = true;
-		
-		for(int j = 2; j < i; j++){
-			if(i % j == 0)
-				isPrime = false;
-		}
-		
-		if(isPrime) primes.push_back(i);
-	}
-}
-
-void getPrimes(int n){
-	primes.clear();
-	primes.push_back(1); // We also need a 1, so we add it even though it's not prime
-	
-	for(int i = 2; (int)primes.size() < n; i++){
 		bool isPrime = true;
 		
 		for(int j = 2; j < i; j++){
@@ -73,17 +58,4 @@ int main(){
 		getPrimes();
 		cout << numDarts(n, q) << '\n';
 	}
-	
-	/*
-	cin >> n >> q;
-	getPrimesN(n);
-	for(auto x : primes) cout << x << '\n';
-	cout << "\n\n";
-	thing* head = new thing(q);
-	printThing(head);
-	cout << '\n';
-	printThingDepth(head);
-	shortestDepth = INT_MAX;
-	findAnswer(head);
-	cout << '\n' << shortestDepth << '\n';*/
 }
