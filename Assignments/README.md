@@ -14,3 +14,4 @@
 |   10   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P11727">P11727</a>** | Cost Cutting |
 |   11   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P11764">P11764</a>** | Jumping Mario |
 |   12   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P112">P112</a>** | Tree Summing |
+|   13   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/P13245">P13245</a>** | Prime Darts |
