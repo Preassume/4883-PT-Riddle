@@ -7,7 +7,7 @@
 |   A06   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A06/P10038">P10038</a>** | Jolly Jumpers |
 |   A07   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A07/P11080">P11080</a>** | Place the Guards |
 |   A08   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A08/P10226">P10226</a>** | Hardwood Species |
-|   A08   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A08/P10194">P10194</a>** | Football |
+|   A08   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A08/P10194">P10194</a>** | Football aka Soccer |
 |   A09   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A09/P10017">P10017</a>** | Towers of Hanoi |
 |   A10   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A10/P900">P900</a>** | Brick Wall Patterns |
 |   A13   | **<a href="https://github.com/Preassume/4883-PT-Riddle/tree/main/Assignments/A13/P1112">P1112</a>** | Mice and Maze |

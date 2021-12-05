@@ -13,6 +13,8 @@ Given a binary tree of integers, you are to write a program
 that determines whether there exists a root-to-leaf path whose
 nodes sum to a specified integer.
 
+Yet another problem where everything I have tested from uDebug seems to work, but I've yet to get a correct submission to OnlineJudge. Unfortunately, this is a mystery to me.
+
 ### Files
 
 
